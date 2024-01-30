@@ -1,4 +1,4 @@
-//Just practicing submitting a pull request.
+// Just practicing submitting a pull request.
 
 # :wave: The Basics of GitHub 
 
